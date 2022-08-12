@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task1 {
+public class ZhordaniaGRTask1 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
